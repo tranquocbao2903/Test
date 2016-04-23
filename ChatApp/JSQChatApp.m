@@ -7,6 +7,7 @@
 //
 
 #import "JSQChatApp.h"
+#import <JSQMessagesViewController/JSQMessages.h>
 
 @implementation JSQChatApp
 
